@@ -6,7 +6,7 @@
   <li>Password:</li>
 </ol>
 </p>
-<h2>Explanation of the code</h2>
+<h2>Explanation of the attributes used</h2>
 <pre>
 <ol>
   <li>required: This attribute ensures that the field must be filled out before the form can be submitted.</li>
