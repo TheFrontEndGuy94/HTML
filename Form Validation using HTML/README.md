@@ -7,4 +7,4 @@
 </ol>
 </p>
 <h2>Below is the UI created using HTML</h2>
-<img src="./images/Form.png">
+<img src="https://github.com/TheFrontEndGuy94/HTML/blob/main/Form%20Validation%20using%20HTML/images/Form.png">
